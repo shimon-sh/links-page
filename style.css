@@ -1,0 +1,37 @@
+div{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 0.8em;
+    background-color: white;
+    padding: 1em;
+	font-size: x-large;
+    text-align: center;
+}
+div a{
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5.5px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: right;
+    cursor: pointer;
+    white-space: normal;
+    width: revert!important;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+div a:hover{
+    background-color:#f1f1f1
+}
+
+
